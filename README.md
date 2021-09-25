@@ -1,7 +1,7 @@
 
 <h1>👨‍🎨</h1>
 ### Hi there I am Alexey👋
-<img align="center" alt="CodeWars" width="32px" src="https://www.codewars.com/users/GoodLuckMisterAlexey/badges/large" />
+<img align="center" alt="CodeWars" width="200px" src="https://www.codewars.com/users/GoodLuckMisterAlexey/badges/large" />
 - 🔭 I’m currently working on **a lot of different stuff**
 - 🌱 I’m currently learning **everything I can get my hands on**
 - 🤔 I’m looking for help with **finding more time in a single day**
