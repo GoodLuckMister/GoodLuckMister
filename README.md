@@ -1,7 +1,7 @@
 
 # Hello, folks! 👋
 
-My name is Oleksii and I'm a ingeneere at independent company. I'm from Kiev, Ukraine, currently live at home. Here are a few things I'm experienced with
+My name is Oleksii and I'm a ingeneere at independent company. I'm from Kiev, Ukraine, currently live at home. Here are a few things I'm experienced with:
 
 <table>
   <tr>
@@ -17,6 +17,16 @@ My name is Oleksii and I'm a ingeneere at independent company. I'm from Kiev, Uk
     <td align="center"><img src="https://simpleicons.org/icons/react.svg" width="80"/></td>
   </tr>
 </table>
+
+## 📫 How to reach me:
+
+You can find me on [![Google][3.2]][3], or on [![Telegram][4.2]][4].
+
+[3.2]: https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/google.svg (Google icon without padding)
+[4.2]: https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg (Telegram icon without padding)
+
+[3]: https://www.google.com/search?q=
+[4]: https://t.me/true_aryen
 
 - 🔭 I’m currently working on **a lot of different stuff**
 - 🌱 I’m currently learning **everything I can get my hands on**
