@@ -8,7 +8,7 @@ My name is Oleksii and I'm a ingeneere at independent company. I'm from Kiev, Uk
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TypeScript](https://simpleicons.org/icons/typescript.svg)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Node.js](https://simpleicons.org/icons/node-dot-js.svg)
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![React](https://simpleicons.org/icons/react.svg)
 
