@@ -18,12 +18,6 @@ My name is Oleksii and I'm a ingeneere at independent company. I'm from Kiev, Uk
   </tr>
 </table>
 
-## 📫 How to reach me:
-
-You can find me on <a href="mailto:your_email_address@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" width="80" alt="Gmail"/></a> or on 
-<a href="https://t.me/your_username">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" width="80" alt="Telegram"/></a>.
 
 - 🔭 I’m currently working on **a lot of different stuff**
 - 🌱 I’m currently learning **everything I can get my hands on**
@@ -31,7 +25,5 @@ You can find me on <a href="mailto:your_email_address@gmail.com">
 - 📫 How to reach me: **paet14@gmail.com**
 - ⚡ Fun fact: **I love what I do - code and help people with their problems**
 
-## 🏆 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=goodluckmister&show_icons=true)
 
