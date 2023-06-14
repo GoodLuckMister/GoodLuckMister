@@ -30,3 +30,8 @@ You can find me on <a href="mailto:your_email_address@gmail.com">
 - 🤔 I’m looking for help with **finding more time in a single day**
 - 📫 How to reach me: **paet14@gmail.com**
 - ⚡ Fun fact: **I love what I do - code and help people with their problems**
+
+## 🏆 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=goodluckmister&show_icons=true)
+
