@@ -1,7 +1,6 @@
 
 # Hello, folks! 👋
-
-My name is Oleksii and I'm a ingeneere at independent company. I'm from Kiev, Ukraine, currently live at home. Here are a few things I'm experienced with:
+  Here are a few things I'm experienced with:
 
 <table>
   <tr>
